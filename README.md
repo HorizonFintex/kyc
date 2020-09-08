@@ -29,7 +29,7 @@ This sample demonstrates how to make different requests to our [KYC platform](ht
 ## Step 1: Clone or download this repository
 From your command line or shell:
 ```
-git clone https://github.com/HorizonFintex/kyc/KYCSample sample
+git.exe clone --progress --recursive -v "https://github.com/HorizonFintex/kyc.git" sample
 cd sample
 ````
 
