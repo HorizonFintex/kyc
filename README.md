@@ -52,14 +52,10 @@ Now that you have acquired the refresh token, you can update appsettings.json fi
 ## Step 5: Run the sample project
 Now you can run the project.
 
-# Development 
-In 
 
-License
+## License
 ----
 
 MIT
 
-
-**KYCWare!**
 
